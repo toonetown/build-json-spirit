@@ -1,6 +1,6 @@
 ## JSON-Spirit Packaging ##
 
-This project provides a script which will package JSON-Spirit headers in a similar manner to the other `build-*` projects.  It contains as a submodule, [toonetown/json-spirit][json-spirit-release] git project.
+This project provides a script which will package JSON-Spirit headers in a similar manner to the other `build-*` projects.  It contains as a submodule, [json-spirit][json-spirit-release] git project.
 
 [json-spirit-release]: https://github.com/toonetown/json-spirit
 
